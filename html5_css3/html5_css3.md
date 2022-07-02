@@ -16,9 +16,9 @@ Fecha com a mesma tag que abriu no inicio
 
 exemplo:
 
- ![elemento HTML](/https://github.com/denisersimoes/dio-desafio-githu-primeiro-repositorio/blob/main/images/elemento_html.jpg)
+ ![elemento HTML](/images/elemento_html.jpg)
 
- 
+ Estrutura básica do HTML
 
 ### Semantica
 
