@@ -16,7 +16,7 @@ Fecha com a mesma tag que abriu no inicio
 
 exemplo:
 
- ![elemento HTML](/Users/rpyle/OneDrive/Documentos/DeniseSimoes/workspace/DIO/dio-desafio-githu-primeiro-repositorio/images/elemento%20html.jpg)
+ ![elemento HTML](/github.com/denisersimoes/dio-desafio-githu-primeiro-repositorio.git/elemento_html.jpg)
 
 ### Semantica
 
