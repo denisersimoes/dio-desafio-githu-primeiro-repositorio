@@ -51,3 +51,33 @@ flex-start
 flex-end
 space-between
 space-around
+
+Propriedades relacionadas ao flex items
+
+flex grow
+define a proporcao de crescimento dos itens, respeitando o tamanho do conteudo interno  
+OBS: nao funciona com justify content aplicado ao container
+
+flex basis
+define o tamanho minimo do item antes da distrbuicao do espaco
+auto
+px ou % =  valor exato
+0 (zero) = definicao ligada com flexgrow    
+
+Flex Shrink
+define a reducao ou compressao do tamanho de um item
+
+Flex
+é um atalho para as propriedades grow, shrink e basis nessa ordem
+
+Order
+define a ordenação dos itens
+
+align self
+define o alinhamento individual de cada item, podendo definir o padrao de cada um individual. o container nao pode ter o align item definido.
+auto
+flex-start
+flex-end
+center
+strecth
+baseline
